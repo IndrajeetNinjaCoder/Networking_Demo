@@ -1,3 +1,5 @@
+Fetching Data of user from github by using github API
+
 # Enter github username in search box and click on search icon
 
 ![GH 1](https://github.com/user-attachments/assets/943d221f-f54a-4a2c-99ef-4bdeb15884c4)
